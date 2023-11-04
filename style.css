@@ -1,0 +1,307 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 1440px;
+    height: 90px;
+    background-color: #151718;
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    color: #FCFCFC;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+}
+h1 {
+    color: #FCFCFC;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    margin-top: 8px;
+}
+.img-logo {
+    width: 40px;
+    height: 40px;
+    top: 25px;
+}
+
+.company {
+    display: flex;
+    gap: 25px;
+    margin-top: 25px;
+}
+.home {
+    display: flex;
+    gap: 68px;
+    margin-top: 25px;
+
+}
+.button1 {
+    width: 110px;
+    height: 50px;
+    border-radius: 100px;
+    margin-top: 15px;
+    border: none;
+    background-color: #2D2F30;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 28px;
+
+}
+.moon1 {
+    width: 40px;
+height: 40px;
+background-color: #151718;
+border-radius: 200px;
+align-items: center;
+text-align: center;
+display: flex;
+justify-content: center;
+}
+.moon {
+    background-color: #0A55C6;
+    width: 19.98px;
+height: 19.98px;
+border-radius: 200px;
+
+}
+.son {
+    background-color: #F2DB00;
+    width: 22px;
+height: 22px;
+border-radius: 200px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.account {
+    margin-top: 16px;
+}
+
+footer {
+    background-image: url(./homework.img/image\ 4.png);
+    width: 1440px;
+    height: 700px;
+    top: 90px;
+    margin: 0 auto;
+    display: flex;
+}
+.container1 {
+    height: 700px;
+    width: 720px;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+h2 {
+    font-family: Inter;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 85px;
+    color: #FCFCFC;
+
+}
+.p-class {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #FCFCFC;
+   
+}
+.but1 {
+  width: 190px;
+    height: 66px;
+    border-radius: 4px;
+    color: #FCFCFC;
+    background-color:#D31671 ;
+    border: none;
+}
+.but2 {
+    color: #FCFCFC;
+    border: 2px solid #FCFCFC;
+    background-color: transparent;
+    width: 140px;
+    height: 60px;
+    border-radius: 4px;
+}
+.text {
+    height: 340px;
+    width: 480px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.p-class {
+    height: 60px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.two-buttons {
+    gap: 20px;
+    width: 480px;
+    height: 80px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.container2 {
+    height: 700px;
+    width: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login {
+    width: 450px;
+    height: 561px;
+    border-radius: 10px;
+    background: #2d2f30;
+}
+
+
+h3 {
+    color: white;
+    width: 174px;
+    height: 30px;
+}
+.rab {
+    width: 20px;
+    height: 20px;
+}
+
+.head {
+    width: 450px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+p{
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.info {
+    width: 450px;
+    height: 240px;
+    padding: 20px;
+
+    
+}
+input {
+    width: 405px;
+    height: 60px;
+    border-radius: 4px;
+    background-color: #414344;
+    border: none;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    padding: 15px;
+}
+label {
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+color:#FBFAFA ;
+
+}
+.label-class {
+    margin-bottom: 12px;
+    padding: 8px;
+}
+
+.end {
+    display: flex;
+    width: 450px;
+    height: 40px;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.img-check {
+    width: 24px;
+    height: 24px;
+}
+.end-p {
+    color: #FBFAFA;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+
+
+}
+#end-a {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #2D76E2;
+}
+
+#but-log {
+    width: 367px;
+    height: 60px;
+    border-radius: 4px;
+    border: none;
+    color: #FBFAFA;
+    background-color: #2D76E2;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    
+
+}
+.div-u {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
